@@ -11,3 +11,5 @@ Task 7 -adds execution permission to the owner, the group owner and the other us
 Task 8 -Sets no permissions for both owner and group, but all permissions for other users
 Task 9 -Sets the mode of ther file to -rwxr-x-wx
 Task 10 -sets the mode of the file hello the same as olleh’s mode
+Task 11 -adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+Task 12 -creates a directory called my_dir with permissions 751 in the working directory
