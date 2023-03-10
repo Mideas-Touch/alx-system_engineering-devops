@@ -10,3 +10,4 @@ Task 6 -adds execute permission to the owner and the group owner, and read permi
 Task 7 -adds execution permission to the owner, the group owner and the other users, to the file hello
 Task 8 -Sets no permissions for both owner and group, but all permissions for other users
 Task 9 -Sets the mode of ther file to -rwxr-x-wx
+Task 10 -sets the mode of the file hello the same as olleh’s mode
