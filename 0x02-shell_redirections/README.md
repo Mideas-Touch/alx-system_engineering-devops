@@ -23,3 +23,4 @@ Task-21 reverses input
 Task-22 displays all users and their home directories, sorted by users, Based on the the /etc/passwd file
 Task-23 finds all empty files and directories in the current directory and all sub-directories.Only the names of the files and directories should be displayed (not the entire path). Hidden files also listed.
 Task-24 lists all the files with a .gif extension in the current directory and all its sub-directories.
+Task-25 decodes acrostics that use the first letter of each line.
