@@ -7,3 +7,4 @@ Task 5 -lists all local variables and environment variables, and functions
 Task 6 -creates a new local variable, Name: BEST, Value: School
 Task 7 -creates a new global variable, Name: BEST, Value: School
 Task 8 -prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+Task 9 -prints the result of POWER divided by DIVIDE, followed by a new line. POWER and DIVIDE are environment variables.
