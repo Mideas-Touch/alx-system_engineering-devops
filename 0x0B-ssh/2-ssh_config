@@ -6,3 +6,5 @@ Host *
     GSSAPIDelegateCredentials no
     IdentityFile ~/.ssh/school
     PasswordAuthentication no
+	AddKeysToAgent yes
+	UseKeychain yes
